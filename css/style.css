@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Lato', sans-serif, Helvetica;
+}
+header{
+    background: rgb(255, 227, 231);
+    height: 125px;
+    padding-top: 4px;
+    color: rgb(170, 17, 81);
+    
+}
+form{
+    margin: 20px;
+}
+
+button{
+    border: none;
+    border-radius: 5px;
+    width: 10%;
+    height: 40px;
+    background: rgb(249, 207, 253);
+}
+button:hover{
+    background: rgb(255, 65, 192);
+}
+
+button:active{
+    background: rgb(198, 28, 250);
+    color: white;
+}
+
+img{
+    margin: 10px;
+    width: 25%;
+    height: 300px;
+}
+.bottom{
+    background: rgb(170, 17, 81);
+    color: rgb(255, 227, 231);
+    height: 200px;
+    padding: 5px;
+    margin-top: 20px;
+}
