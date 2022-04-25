@@ -4,6 +4,8 @@ This project allows you to input your birthdate in order to recieve your horosco
 
 **Link to project:** https://echoroscope.netlify.app
 
+![horoscope](https://user-images.githubusercontent.com/102037717/165102311-8842d01c-6771-4137-9708-6f2f7e544f39.png)
+
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript
